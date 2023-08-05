@@ -20,4 +20,4 @@ librosa
 gradio
 torchmetrics
 encodec
-git+https://github.com/facebookresearch/audiocraft.git#egg=requests
+git+https://github.com/facebookresearch/audiocraft.git#egg=audiocraft
