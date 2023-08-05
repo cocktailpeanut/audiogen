@@ -10,5 +10,5 @@ colorFrom: white
 colorTo: blue
 sdk: gradio
 sdk_version: 3.34.0
-pinned: true
+pinned: false
 license: cc-by-nc-4.0
