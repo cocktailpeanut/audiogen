@@ -1,3 +1,4 @@
+---
 title: AudioGen
 python_version: '3.9'
 tags:
@@ -12,3 +13,4 @@ sdk: gradio
 sdk_version: 3.34.0
 pinned: false
 license: cc-by-nc-4.0
+---
